@@ -188,9 +188,11 @@
   font-size: 18px;
   font-weight: normal;
   margin-top: 20px;
-  margin-bottom: 0;
 }
 
+.table__text:last-child {
+  margin-bottom: 0;
+}
 
 /* содержимое элемента feynman */
 

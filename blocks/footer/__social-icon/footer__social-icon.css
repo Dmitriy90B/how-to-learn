@@ -1,0 +1,9 @@
+.footer__social-icon {
+  width: 16px;
+  padding-right: 10px;
+  transition: 1s linear;
+}
+
+.footer__social-icon:hover {
+  opacity: .4;
+}

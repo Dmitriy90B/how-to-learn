@@ -8,32 +8,4 @@
 ---
 + **HTML**
 + **CSS**
-## Анимация ссылок
----
-Перечислены ссылки, которые смещаются и меняет цвет при наведении.
 
-+ **header__link**
-+ **feyman__link**
-+ **khan__buy-link**
-
-```css
-.header__link:hover {
-  opacity: .5;
-  color: #001679;
-  margin-left: 3px;
-}
-```
-```css
-.feyman__link:hover {
-  opacity: .4;
-  color: #000000;
-  margin-right: 6px;
-}
-```
-```css
-.khan__buy-link:hover {
-  opacity: .4;
-  color: #000000;
-  margin-left: 6px;
-}
-```
